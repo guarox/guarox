@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Gilberto Pina (@guarox) 👋
 
-<!--
-**guarox/guarox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Systems Architect at **[VMG Systems](https://vmg.systems)**
 
-Here are some ideas to get you started:
+```
+🔭 Enterprise AI Infrastructure | Autonomous Multi-Agent Workflows | High Availability Edge & Cloud
+⚡ Core Stack: Python · TypeScript · Talos Kubernetes · Proxmox VE · FastAPI · n8n · Langfuse · Qdrant
+⛵ Marine Intelligence: Tactician & Navigator for Rambler (J/99 USA 99)
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Featured Architectures & Projects
+
+- 🚀 **[vmg-ai-infrastructure-playbook](https://github.com/guarox/vmg-ai-infrastructure-playbook)** — Clean Slate Enterprise AI Infrastructure Playbook, Voice AI blueprints & n8n orchestration.
+- 🏢 **[VMG Systems Platform](https://vmg.systems)** — Enterprise AI consulting, agentic infrastructure, and voice intelligence systems.
+- ⛵ **[Rambler Smart Bridge](https://github.com/guarox/rambler-smart-bridge)** — High-frequency NMEA 2000 marine telemetry, real-time tactical intelligence, and HRRR weather modeling.
+- 🛡️ **[Homelab Infrastructure](https://github.com/guarox/homelab)** — Converged HA Talos Kubernetes & Proxmox private cloud with declarative GitOps management.
+
+---
+
+<p align="center">
+  <a href="https://vmg.systems"><b>🌐 vmg.systems</b></a> &nbsp;|&nbsp; 
+  <a href="mailto:gilpina@gmail.com"><b>✉️ Contact</b></a> &nbsp;|&nbsp; 
+  <b>📍 Chicago, IL</b>
+</p>
