@@ -20,7 +20,7 @@ Marine Intelligence: Tactician & Navigator for Rambler (J/99 USA 99)
 ---
 
 <p align="center">
-  <a href="https://vmg.systems"><b>m vmg.systems</b></a> &nbsp;|&nbsp; 
+  <a href="https://vmg.systems"><b> vmg.systems</b></a> &nbsp;|&nbsp; 
   <a href="mailto:gilpina@gmail.com"><b> Contact</b></a> &nbsp;|&nbsp; 
   <b> Chicago, IL</b>
 </p>
