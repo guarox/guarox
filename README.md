@@ -18,7 +18,7 @@ Tactician & Navigator on Rambler (J/99 USA 99)
 | **[PD3board](https://github.com/guarox/PD3board)** | FinTech / Real-Time | Open-source Bloomberg Terminal emulator. FastAPI, WebSockets/SSE, Canvas 60 FPS, L1/L2 order books. | [Repository](https://github.com/guarox/PD3board) |
 | **[Automotive AI Platform](https://www.vmg.systems/case-studies/automotive-ai)** | Enterprise AI | Production V1 rebuild of multi-service automotive AI coaching platform. React Native, FastAPI, Gemini AI, Cloud Run. | [Case Study](https://www.vmg.systems/case-studies/automotive-ai) |
 | **[Rambler Smart Bridge](https://www.vmg.systems/lab)** | Edge / Marine Telemetry | NMEA 2000 CAN bus ingestion, HRRR 1km weather model sync, and real-time polar velocity calculation. | [The Lab](https://www.vmg.systems/lab) |
-| **[Homelab AI OS](https://www.vmg.systems/lab)** | Private Cloud / GitOps | Converged HA Talos Kubernetes & Proxmox VE cluster managed via declarative FluxCD GitOps. Zero ClickOps. | [The Lab](https://www.vmg.systems/lab) |
+| **[VMG AI OS](https://www.vmg.systems/lab)** | Sovereign Cloud / GitOps | Air-gapped, sovereign private cloud runtime running declarative Talos Linux K8s & Proxmox VE via FluxCD GitOps. Zero manual drift. | [The Lab](https://www.vmg.systems/lab) |
 | **[Voice AI Architecture](https://patents.google.com/patent/WO2017177203A1/en)** | Voice AI / Scaled Systems | Scaled drive-thru voice ordering across 14,000+ stores globally. Issued WIPO Patent WO2017177203A1. | [Google Patents](https://patents.google.com/patent/WO2017177203A1/en) |
 
 ---
