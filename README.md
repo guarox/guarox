@@ -15,8 +15,8 @@ Tactician & Navigator on Rambler (J/99 USA 99)
 
 | System | Domain | Architecture & Highlights | Live Reference |
 | :--- | :--- | :--- | :---: |
-| **[Pythia (`v3.0.0`)](https://www.vmg.systems/lab)** | Quant / Rust HFT | Quantitative prediction market & CLOB Level-2 execution engine with native `#![forbid(unsafe_code)]` Rust HFT reactor (`13.9us` p50 tick-to-trade, 6 strategies, Quarter-Kelly risk gates, SHA-256 SQLite WAL forensic ledger). | [The Lab](https://www.vmg.systems/lab) |
-| **[VMG Viento (`v0.3.0`)](https://github.com/vmgsystems/viento)** | GitOps / Zero-Trust CLI | Open-core Kubernetes & GitOps invariant linter (SARIF 2.1.0), SQLite WAL contention benchmark, & cold DR verifier (`Apache-2.0`). | [Repository](https://github.com/vmgsystems/viento) |
+| **[Pythia (`v3.0.1`)](https://www.vmg.systems/lab)** | Quant / Rust HFT | Quantitative prediction market & CLOB Level-2 execution engine with native `#![forbid(unsafe_code)]` Rust HFT reactor (`13.9us` p50 tick-to-trade, 6 strategies, Quarter-Kelly risk gates, SHA-256 SQLite WAL forensic ledger). | [The Lab](https://www.vmg.systems/lab) |
+| **[VMG Viento (`v0.4.0`)](https://github.com/vmgsystems/viento)** | GitOps / Zero-Trust CLI | Open-core Kubernetes & GitOps invariant linter (SARIF 2.1.0), SQLite WAL contention benchmark, & cold DR verifier (`Apache-2.0`). | [Repository](https://github.com/vmgsystems/viento) |
 | **[PD3board](https://github.com/guarox/PD3board)** | FinTech / Real-Time | Open-source Bloomberg Terminal emulator. FastAPI, WebSockets/SSE, Canvas 60 FPS, L1/L2 order books. | [Repository](https://github.com/guarox/PD3board) |
 | **[Automotive AI Platform](https://www.vmg.systems/case-studies/automotive-ai)** | Enterprise AI | Production V1 rebuild of multi-service automotive AI coaching platform. React Native, FastAPI, Gemini AI, Cloud Run. | [Case Study](https://www.vmg.systems/case-studies/automotive-ai) |
 | **[Rambler Smart Bridge](https://www.vmg.systems/lab)** | Edge / Marine Telemetry | NMEA 2000 CAN bus ingestion, HRRR 1km weather model sync, and real-time polar velocity calculation. | [The Lab](https://www.vmg.systems/lab) |
